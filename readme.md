@@ -1,29 +1,35 @@
 <h1>DSBDA-Project</h1>
 <h2>Data Science and Big Data Analysis Mini-Project</h2>
+<strong>Employee attrition prediction</strong>
+<p>Predicting that employee will leave the current company using several machine learning algorithms.</p>
 <hr>
 <h3>Building requirements</h3>
 <ul>
     <li>Open command prompt and run as administrator.</li>
     <li>Change path to project directory.</li>
-    <li>run command: pip install -r requirements.txt
-    <br>This installs the required python libraries (Make sure you have python installed)
+    <li>Install all the required python libraries (Make sure you have python installed)
+    <br>
+    Run command: <code>pip install -r requirements.txt</code>
     </li>
 </ul>
 <hr>
 <h3>Building the Model</h3>
 <ul>
-    <li>Run 'model-build.ipynb' Jupyter Notebook to build the prediction model.</li>
+    <li>Run 'model-build.py' to build the prediction model.
+    <br>
+    Run command: <code>py model-build.py</code>
+    </li>
 </ul>
 <hr>
 <h3>Starting the Web App</h3>
 <ul>
     <li>Open command prompt in the project directory</li>
-    <li>Run command: mercury run
+    <li>Start the mercury Web App server on localhost (default port = 8000)
     <br>
-    It will start the mercury Web App server on localhost (default port = 8000), Mercury projects will be opened in browser
+    Run command: <code>mercury run</code>
     </li>
-    <li>Open model-build App to study data visualization</li>
-    <li>Open model-predict App to predict Employee Attrition</li>
+    <li>Open 'DataViz' App to study data visualization</li>
+    <li>Open 'PredictionModel' App to predict Employee Attrition</li>
 </ul>
 <hr>
 <h3>Mercury interface</h3>
