@@ -38,3 +38,12 @@
     <li>Select values from dropdown lists</li>
     <li>Enter custom input in textbox</li>
 </ul>
+<hr>
+<h3>Project screenshots</h3>
+<br>
+<img src='./images/image-1.png' alt='project-screenshot'>
+<img src='./images/image-2.png' alt='project-screenshot'>
+<img src='./images/image-3.png' alt='project-screenshot'>
+<img src='./images/image-4.png' alt='project-screenshot'>
+<img src='./images/image-5.png' alt='project-screenshot'>
+<img src='./images/image-6.png' alt='project-screenshot'>
