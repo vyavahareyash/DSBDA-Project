@@ -3,6 +3,7 @@ numpy
 seaborn
 matplotlib
 plotly
-pickle5
-mercury
 scikit-learn
+xgboost
+mercury
+pickle5
